@@ -21,7 +21,7 @@
     "react-dom": "^15.3.2",
     "redis": "^2.8.0",
     "serve-favicon": "^2.0.1",
-    "webpack": "^1.13.2"
+    "webpack": "^5.74.0"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.6.1",
